@@ -4084,3 +4084,38 @@ height: 5em;
 	color: #fff;
 	font-size: 16px;
 }
+.heading span {
+	font-weight: bold;
+	font-size: 14px;
+	display: block;
+	color: #6d7c88;
+	text-transform: uppercase;
+	letter-spacing: -0.1px;
+}
+.slides-text h4 {
+	font-weight: 800;
+	margin-bottom: 17px;
+	/* / letter-spacing: -0.5px; / */
+}
+.slides-text h4 a {
+	color: #5eb9dd;	
+	transition: 1s all ease;
+	-webkit-transition: 1s all ease;
+	letter-spacing: 5px;
+}
+
+.slides-text p {
+	margin-bottom: 23px;
+	letter-spacing: 0.1px;
+	color: black;
+	font-size: 12px;
+}
+
+.read-more {
+	text-transform: uppercase;
+	color: #3c763d !important;
+	transition: 0.5s all ease;
+	-webkit-transition: 0.5s all ease;
+	letter-spacing: 0.7px;
+	font-weight: 800;
+}
